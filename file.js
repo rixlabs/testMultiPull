@@ -22,5 +22,8 @@
     BANKLET_WEALTH_BOOKING_LIST = "Wealth Booking List",
     BANKLET_WEALTH_BOOKING_DETAIL = "Wealth Booking Detail",
     BANKLET_WEALTH_MONEY_ACCOUNTS = "Wealth Money Accounts",
+	
+	
+	poldone
     BANKLET_WEALTH_POSITION = "Wealth Position",
     BANKLET_WEALTH_
