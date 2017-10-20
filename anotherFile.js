@@ -8,6 +8,7 @@ switch (msgType) {
         bankletConfig = data.data;
         if (bankletConfig == null || bankletConfig.name == null) {
             bankletConfigId = navigationMenuToBankletMap[afpId];
+			poldo 5 volte
             bankletConfig = getBankletConfig(bankletConfigId);
         }
         proxy = getBankletMainProxy();
