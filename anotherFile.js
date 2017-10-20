@@ -13,4 +13,8 @@ switch (msgType) {
         proxy = getBankletMainProxy();
         bankletInstance = getBankletInstance(proxy, bankletConfig);
         proxy.startInstance(bankletInstance);
+		
+		
+		
+		ciao
         break;
