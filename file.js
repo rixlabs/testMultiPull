@@ -9,8 +9,7 @@
     BANKLET_TRADING_OVERVIEW = "Trading Overview",
     BANKLET_TRADING_SINGLE_ORDER = "Trading Single Order",
     BANKLET_TRADING_COLLECTIVE_ORDER = "Trading Collective Order",
-    BANKLET_TRADING_COLLECTIVE_ORDER_OVERVIEW = "Trading Collective Order Overview",
-    BANKLET_ACCOUNT_OVERVIEW = "Account Overview",
+   
     BANKLET_ACCOUNT_DETAILS = "Account Details",
     BANKLET_ACCOUNT_STATEMENT = "Account Statement",
     BANKLET_MORTGAGE_OVERVIEW = "Mortgage Overview",
